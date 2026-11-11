@@ -1,0 +1,1 @@
+import{On as e,k as t,mt as n,v as r}from"./runtime-core.esm-bundler-Cnd3YYMa.js";import{t as i}from"./comps-DJjTUV0y.js";var a=t({name:`About`,__name:`index`,setup(t){return(t,a)=>(n(),r(e(i)))}});export{a as default};

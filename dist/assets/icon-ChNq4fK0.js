@@ -1,0 +1,1 @@
+import{u as e}from"./install-DrnZcHK6.js";import{B as t,H as n,T as r,_ as i,f as a,h as o,m as s,w as c}from"./icon-CQs3O_ys.js";var l=e([String,Object,Function]),u={Close:i},d={Close:i,SuccessFilled:t,InfoFilled:c,WarningFilled:n,CircleCloseFilled:o},f={primary:c,success:t,warning:n,error:o,info:c},p={validating:r,success:a,error:s};export{l as a,p as i,d as n,f as r,u as t};
