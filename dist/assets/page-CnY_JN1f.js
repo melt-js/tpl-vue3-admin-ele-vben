@@ -1,0 +1,1 @@
+var o={login:"Login",register:"Register",codeLogin:"Code Login",qrcodeLogin:"Qr Code Login",forgetPassword:"Forget Password",profile:"Profile"},a={title:"Dashboard",analytics:"Analytics",workspace:"Workspace"},e={auth:o,dashboard:a};export{o as auth,a as dashboard,e as default};

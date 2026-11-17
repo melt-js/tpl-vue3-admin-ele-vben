@@ -1,0 +1,1 @@
+import{c as s,o as i,s as e}from"./use-aria-DjyFciNn.js";import{x as o}from"./install-V6nOwsX4.js";import{x as a}from"./isEqual-Czji12t2.js";function f(r,t){return e(i(r,t,s),r+"")}function p(r){return o(r)&&a(r)}export{f as n,p as t};

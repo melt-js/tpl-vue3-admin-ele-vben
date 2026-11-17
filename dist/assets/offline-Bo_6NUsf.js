@@ -1,0 +1,1 @@
+import{On as e,k as a,mt as t,v as f}from"./runtime-core.esm-bundler-4CjsxWoI.js";import{h as n}from"./libTypes-CuIao25W.js";var o=a({name:"FallbackOfflineDemo",__name:"offline",setup(r){return(l,_)=>(t(),f(e(n),{status:"offline"}))}}),p=o;export{p as default};
