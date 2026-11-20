@@ -1,1 +1,0 @@
-import{On as e,k as t,mt as a,v as o}from"./runtime-core.esm-bundler-4CjsxWoI.js";import{h as n}from"./libTypes-45pxqmiU.js";var _=t({name:"Fallback404Demo",__name:"not-found",setup(r){return(u,s)=>(a(),o(e(n),{status:"404"}))}}),l=_;export{l as default};
