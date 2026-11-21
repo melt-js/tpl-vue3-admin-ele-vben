@@ -1,1 +1,0 @@
-import{On as e,k as t,mt as a,v as r}from"./runtime-core.esm-bundler-4CjsxWoI.js";import{t as _}from"./libTypes-B8NJ6E2M.js";var o=t({name:"About",__name:"index",setup(u){return(n,p)=>(a(),r(e(_)))}}),c=o;export{c as default};
